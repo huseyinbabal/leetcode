@@ -4,8 +4,12 @@ Optimal solutions to LeetCode Problems. Any kind of improvement suggestion is we
 
 ### Algorithms
 
-| Title                                                                           | Language(s)                                                                                        | Difficulty |
-| -----                                                                           | --------                                                                                           | ---------- |
-| [Binary Search](https://leetcode.com/problems/binary-search/)                   | [Java](./algorithms/java/src/main/java/org/huseyin/binarysearch/BinarySearch.java)                 | Easy       |
-| [First Bad Version](https://leetcode.com/problems/first-bad-version/)           | [Java](./algorithms/java/src/main/java/org/huseyin/firstbadversion/FirstBadVersion.java)           | Easy       |
-| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./algorithms/java/src/main/java/org/huseyin/searchinsertposition/SearchInsertPosition.java) | Easy       |
+| Title                                                                                                 | Language(s)                                                                                                | Difficulty |
+| -----                                                                                                 | --------                                                                                                   | ---------- |
+| [Binary Search](https://leetcode.com/problems/binary-search/)                                         | [Java](./algorithms/java/src/main/java/org/huseyin/binarysearch/BinarySearch.java)                         | Easy       |
+| [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                 | [Java](./algorithms/java/src/main/java/org/huseyin/firstbadversion/FirstBadVersion.java)                   | Easy       |
+| [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                       | [Java](./algorithms/java/src/main/java/org/huseyin/searchinsertposition/SearchInsertPosition.java)         | Easy       |
+| [Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                   | [Java](./algorithms/java/src/main/java/org/huseyin/squareofsortedarray/SquareOfSortedArray.java)           | Easy       |
+| [Rotate Array](https://leetcode.com/problems/rotate-array/)                                           | [Java](./algorithms/java/src/main/java/org/huseyin/rotatearray/RotateArray.java)                           | Medium     |
+| [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                             | [Java](./algorithms/java/src/main/java/org/huseyin/movezeroes/MoveZeroes.java)                             | Medium     |
+| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./algorithms/java/src/main/java/org/huseyin/twosumiiinputarraysorted/TwoSumIIInputArraySorted.java) | Easy       |

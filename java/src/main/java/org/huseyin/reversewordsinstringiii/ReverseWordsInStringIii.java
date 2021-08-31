@@ -1,5 +1,5 @@
 /*
-    Source: https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/
+    Source: https://leetcode.com/problems/reverse-words-in-a-string-iii/
     Author: Huseyin BABAL
     GitHub Profile: https://github.com/huseyinbabal
 

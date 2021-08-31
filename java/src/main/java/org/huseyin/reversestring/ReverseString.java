@@ -1,5 +1,5 @@
 /*
-    Source: https://leetcode.com/problems/reverse-string/submissions/
+    Source: https://leetcode.com/problems/reverse-string/
     Author: Huseyin BABAL
     GitHub Profile: https://github.com/huseyinbabal
 
